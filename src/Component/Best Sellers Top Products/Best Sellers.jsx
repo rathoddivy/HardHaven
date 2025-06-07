@@ -1,7 +1,7 @@
 import React from "react";
 import Drill from "../../assets/drill.jpg";
 import Wrench from "../../assets/Wrench.jpg";
-import Cutter from "../../assets/cutter.jpg";
+import Cutter from "../../assets/Cutter.jpg";
 import SafetyGloves from "../../assets/h1.jpg";
 
 const products = [
